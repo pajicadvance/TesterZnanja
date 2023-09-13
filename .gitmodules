@@ -1,0 +1,9 @@
+[submodule "TesterZnanjaCommon"]
+	path = TesterZnanjaCommon
+	url = https://github.com/pajicadvance/TesterZnanjaCommon
+[submodule "TesterZnanjaServer"]
+	path = TesterZnanjaServer
+	url = https://github.com/pajicadvance/TesterZnanjaServer
+[submodule "TesterZnanjaClient"]
+	path = TesterZnanjaClient
+	url = https://github.com/pajicadvance/TesterZnanjaClient
